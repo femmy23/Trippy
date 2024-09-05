@@ -1,0 +1,16 @@
+:root {
+  --color-bg: #232342;
+  --color-bg-variant: #01959a;
+  --color-primary: #4db5ff;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-light: #ffffff99;
+  --transition: all 300ms ease-in-out;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
